@@ -20,9 +20,17 @@ nav a {
 
 nav a.router-link-exact-active {
   color: #42b983;
+} 
+
+:is(.wrapper){
+  display: grid;
+  grid-template-rows: auto minmax(100dvh, 100%, auto);
 }
 
 /* univrsal selector */
+::-webkit-scrollbar{
+  display: none;
+}
 
 /* custom variables */
 

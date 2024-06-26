@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="wrapper">
     <NavBar />
     <Footer />
     <main class="container-fluid">
