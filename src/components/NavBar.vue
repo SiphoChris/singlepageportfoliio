@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
       <router-link class="navbar-brand" to="/">
-        <img src="SiphoChris.github.io/images/images/portfolio_images/myLogo.png" alt="logo" class="img-fluid" loading="lazy">
+        <img src="https://SiphoChris.github.io/images/images/portfolio_images/myLogo.png" alt="logo" class="img-fluid" loading="lazy">
       </router-link>
       <button
         class="navbar-toggler"
